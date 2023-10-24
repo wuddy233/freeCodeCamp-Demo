@@ -1,2 +1,2 @@
 # freeCodeCamp-Demo
-some dome when i learning on freecodecamp
+some demo when i learning on freecodecamp
